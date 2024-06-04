@@ -1,2 +1,18 @@
 # Data-Analyst-Portfolio-Website
+
 Welcome to my personal portfolio website! This repository contains the source code for my portfolio site, which showcases my skills, projects, and experience as a Data Analyst. The website is designed to provide potential employers and collaborators with an overview of my professional background and the data analysis projects I have worked on.
+
+## FEATURES:
+
+Home Page: An introduction to who I am and what I do.
+About Me: Detailed information about my background, skills, and professional journey.
+Projects: A showcase of my data analysis projects, including descriptions, tools used, and key insights.
+Resume: A downloadable version of my resume.
+Contact: A contact form and links to my social media profiles.
+
+## Technologies Used
+
+HTML5 & CSS3: For structuring and styling the website.
+JavaScript: For interactive features and enhancements.
+Bootstrap: For responsive design and layout.
+Font Awesome: For icons and visual elements.
